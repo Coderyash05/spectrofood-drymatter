@@ -1,0 +1,5 @@
+category,config,R2,RMSE,RPD
+leek,"Ridge, full 421 bands",0.906,0.0074,3.25
+mushroom,"Ridge, 204 bands",0.872,0.1057,2.8
+broccoli,SNV + 2nd deriv + RF,0.579,0.0107,1.54
+apple,2nd deriv + RF (no scatter),0.441,0.0066,1.34
